@@ -1,0 +1,543 @@
+{
+  "vtex.menu@2.x:menu#category-menu": {
+    "props": {
+      "experimentalOptimizeRendering": true
+    },
+    "children": [
+      "menu-item#category-tipos-flores",
+      "menu-item#category-buquês-flores",
+      "menu-item#category-arranjo-flores",
+      "menu-item#category-flores-em-vasos",
+      "menu-item#category-ocasiões"
+    ]
+  },
+  "menu-item#category-tipos-flores": {
+    "props": {
+      "id": "menu-item-category-tipos-flores",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/",
+        "noFollow": false,
+        "tagTitle": "TiposFlores",
+        "text": "Tipos de Flores"
+      }
+    },
+    "blocks": [
+      "vtex.menu@2.x:submenu#category-tipos-flores"
+    ]
+  },
+  "vtex.menu@2.x:submenu#category-tipos-flores": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-tipos-flores"
+    ]
+  },
+  "vtex.menu@2.x:menu#category-tipos-flores": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#category-rosas",
+      "menu-item#category-girassóis",
+      "menu-item#category-orquídeas"
+    ]
+  },
+  "menu-item#category-rosas": {
+    "props": {
+      "id": "menu-item-category-rosas",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/rosas/",
+        "noFollow": false,
+        "tagTitle": "Rosas",
+        "text": "Rosas"
+      }
+    }
+  },
+  "menu-item#category-girassóis": {
+    "props": {
+      "id": "menu-item-category-girassóis",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/girassóis/",
+        "noFollow": false,
+        "tagTitle": "Girassóis",
+        "text": "Girassóis"
+      }
+    }
+  },
+  "menu-item#category-orquídeas": {
+    "props": {
+      "id": "menu-item-category-orquídeas",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/orquídeas/",
+        "noFollow": false,
+        "tagTitle": "Orquídeas",
+        "text": "Orquídeas"
+      }
+    }
+  },
+  "menu-item#category-buquês-flores": {
+    "props": {
+      "id": "menu-item-category-buquês-flores",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/",
+        "noFollow": false,
+        "tagTitle": "TiposFlores",
+        "text": "Buquês de Flores"
+      }
+    },
+    "blocks": [
+      "vtex.menu@2.x:submenu#category-buquês-flores"
+    ]
+  },
+  "vtex.menu@2.x:submenu#category-buquês-flores": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-buquês-flores"
+    ]
+  },
+  "vtex.menu@2.x:menu#category-buquês-flores": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#category-buquê-lírios",
+      "menu-item#category-buquê-margaridas",
+      "menu-item#category-buquê-cravos"
+    ]
+  },
+  "menu-item#category-buquê-lírios": {
+    "props": {
+      "id": "menu-item-category-buquê-lírios",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/buquê-lírios/",
+        "noFollow": false,
+        "tagTitle": "BuquêLírios",
+        "text": "Buquê de lírios"
+      }
+    }
+  },
+  "menu-item#category-buquê-margaridas": {
+    "props": {
+      "id": "menu-item-category-buquê-margaridas",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/buquê-margaridas/",
+        "noFollow": false,
+        "tagTitle": "BuquêMargaridas",
+        "text": "Buquê de Margaridas"
+      }
+    }
+  },
+  "menu-item#category-buquê-cravos": {
+    "props": {
+      "id": "menu-item-category-buquê-cravos",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/buquê-cravos/",
+        "noFollow": false,
+        "tagTitle": "BuquêCravos",
+        "text": "Buquê de Cravos"
+      }
+    }
+  },
+  "menu-item#category-arranjo-flores": {
+    "props": {
+      "id": "menu-item-category-arranjo-flores",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/",
+        "noFollow": false,
+        "tagTitle": "ArranjoFlores",
+        "text": "Arranjo de Flores"
+      }
+    },
+    "blocks": [
+      "vtex.menu@2.x:submenu#category-arranjo-flores"
+    ]
+  },
+  "vtex.menu@2.x:submenu#category-arranjo-flores": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-arranjo-flores"
+    ]
+  },
+  "vtex.menu@2.x:menu#category-arranjo-flores": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#category-arranjo-suculentas",
+      "menu-item#category-arranjo-astromélias",
+      "menu-item#category-arranjo-crisântemos"
+    ]
+  },
+  "menu-item#category-arranjo-suculentas": {
+    "props": {
+      "id": "menu-item-category-arranjo-suculentas",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/arranjo-suculentas/",
+        "noFollow": false,
+        "tagTitle": "ArranjoSuculentas",
+        "text": "Arranjo de Suculentas"
+      }
+    }
+  },
+  "menu-item#category-arranjo-astromélias": {
+    "props": {
+      "id": "menu-item-category-arranjo-astromélias",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/arranjo-astromélias/",
+        "noFollow": false,
+        "tagTitle": "ArranjoAstromélias",
+        "text": "Arranjo de Astromélias"
+      }
+    }
+  },
+  "menu-item#category-arranjo-crisântemos": {
+    "props": {
+      "id": "menu-item-category-arranjo-crisântemos",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/arranjo-crisântemos/",
+        "noFollow": false,
+        "tagTitle": "ArranjoCrisântemos",
+        "text": "Arranjo de Crisântemos"
+      }
+    }
+  },
+  "menu-item#category-flores-em-vasos": {
+    "props": {
+      "id": "menu-item-category-flores-em-vasos",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/",
+        "noFollow": false,
+        "tagTitle": "FloresEmVasos",
+        "text": "Flores em Vasos"
+      }
+    },
+    "blocks": [
+      "vtex.menu@2.x:submenu#category-flores-em-vasos"
+    ]
+  },
+  "vtex.menu@2.x:submenu#category-flores-em-vasos": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-flores-em-vasos"
+    ]
+  },
+  "vtex.menu@2.x:menu#category-flores-em-vasos": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#category-vasos-floresMistas",
+      "menu-item#category-vasos-gérberas",
+      "menu-item#category-vasos-floresCampo"
+    ]
+  },
+  "menu-item#category-vasos-floresMistas": {
+    "props": {
+      "id": "menu-item-category-vasos-floresMistas",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/vasos-floresMistas/",
+        "noFollow": false,
+        "tagTitle": "VasosFloresMistas",
+        "text": "Vasos de Flores Mistas"
+      }
+    }
+  },
+  "menu-item#category-vasos-gérberas": {
+    "props": {
+      "id": "menu-item-category-vasos-gérberas",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/vasos-gérberas/",
+        "noFollow": false,
+        "tagTitle": "VasosGérberas",
+        "text": "Vasos de Gérberas"
+      }
+    }
+  },
+  "menu-item#category-vasos-floresCampo": {
+    "props": {
+      "id": "menu-item-category-vasos-floresCampo",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/vasos-floresCampo/",
+        "noFollow": false,
+        "tagTitle": "VasosFloresCampo",
+        "text": "Vasos de flores do Campo"
+      }
+    }
+  },
+  "menu-item#category-ocasiões": {
+    "props": {
+      "id": "menu-item-category-ocasiões",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/",
+        "noFollow": false,
+        "tagTitle": "Ocasiões",
+        "text": "Ocasiões"
+      }
+    },
+    "blocks": [
+      "vtex.menu@2.x:submenu#category-ocasiões"
+    ]
+  },
+  "vtex.menu@2.x:submenu#category-ocasiões": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-ocasiões"
+    ]
+  },
+  "vtex.menu@2.x:menu#category-ocasiões": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#category-diaPais",
+      "menu-item#category-diaNamorados",
+      "menu-item#category-diaMães"
+    ]
+  },
+  "menu-item#category-diaPais": {
+    "props": {
+      "id": "menu-item-category-diaPais",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/diaPais/",
+        "noFollow": false,
+        "tagTitle": "DiaPais",
+        "text": "Dia dos Pais"
+      }
+    }
+  },
+  "menu-item#category-diaNamorados": {
+    "props": {
+      "id": "menu-item-category-diaNamorados",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/diaNamorados/",
+        "noFollow": false,
+        "tagTitle": "DiaNamorados",
+        "text": "Dia dos Namorados"
+      }
+    }
+  },
+  "menu-item#category-diaMães": {
+    "props": {
+      "id": "menu-item-category-diaMães",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/diaMães/",
+        "noFollow": false,
+        "tagTitle": "DiaMães",
+        "text": "Dia das Mães"
+      }
+    }
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "menu-item#category-home": {
+    "props": {
+      "id": "menu-item-category-home",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/home---decor/",
+        "noFollow": false,
+        "tagTitle": "Ocasiões",
+        "text": "Ocasiões"
+      }
+    }
+  },
+  "menu-item#more": {
+    "props": {
+      "id": "menu-item-custom-sale",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "#",
+        "noFollow": true,
+        "tagTitle": "Destaques",
+        "text": "Destaques"
+      }
+    },
+    "blocks": [
+      "vtex.menu@2.x:submenu#more"
+    ]
+  },
+  "vtex.menu@2.x:submenu#more": {
+    "props": {
+      "width": "100%"
+    },
+    "children": [
+      "flex-layout.row#menu-more"
+    ]
+  },
+  "flex-layout.row#menu-more": {
+    "children": [
+      "flex-layout.col#menu-more-1",
+      "flex-layout.col#menu-more-2"
+    ]
+  },
+  "flex-layout.col#menu-more-1": {
+    "children": [
+      "vtex.menu@2.x:menu#more"
+    ]
+  },
+  "flex-layout.col#menu-more-2": {
+    "children": [
+      "info-card#home"
+    ]
+  },
+  "vtex.menu@2.x:menu#more": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      
+    ]
+  },
+  "menu-item#about-us": {
+    "props": {
+      "id": "menu-item-about-us",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/about-us",
+        "noFollow": true,
+        "tagTitle": "SobreNós",
+        "text": "Sobre nós"
+      }
+    }
+  },
+  "menu-item#faq": {
+    "props": {
+      "id": "menu-item-faq",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/faq",
+        "noFollow": true,
+        "tagTitle": "FAQ",
+        "text": "FAQ"
+      }
+    }
+  },
+  "menu-item#contact-us": {
+    "props": {
+      "id": "menu-item-contact-us",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/contact-us",
+        "noFollow": true,
+        "tagTitle": "Contact Us",
+        "text": "Contact Us"
+      }
+    }
+  }
+}
