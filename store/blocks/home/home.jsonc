@@ -8,7 +8,6 @@
       "__fold__.experimentalLazyAssets",
       "rich-text#shelf-title",
       "flex-layout.row#shelf",
-      "info-card#home",
       "rich-text#question",
       "rich-text#link",
       "newsletter"
@@ -21,12 +20,16 @@
       "height": 720,
       "images": [
         {
-          "image": "https://storecomponents.vteximg.com.br/arquivos/banner-principal.png",
-          "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/banner-principal-mobile.jpg"
+          "image": "https://blog.decohouse.com.br/wp-content/uploads/2021/01/Decora%C3%A7%C3%A3o-com-flores-traga-a-natureza-para-dentro-de-casa_opt-min.jpg",
+          "mobileImage": "https://blog.decohouse.com.br/wp-content/uploads/2021/01/Decora%C3%A7%C3%A3o-com-flores-traga-a-natureza-para-dentro-de-casa_opt-min.jpg"
         },
         {
-          "image": "https://storecomponents.vteximg.com.br/arquivos/banner.jpg",
-          "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/banner-principal-mobile.jpg"
+          "image": "https://s2.glbimg.com/XznrKSWzDFt6vOAs2brz5QUXAj8=/620x455/e.glbimg.com/og/ed/f/original/2020/04/06/pexels-photo-674580.jpeg",
+          "mobileImage": "https://s2.glbimg.com/XznrKSWzDFt6vOAs2brz5QUXAj8=/620x455/e.glbimg.com/og/ed/f/original/2020/04/06/pexels-photo-674580.jpeg"
+        },
+        {
+          "image": "https://imagens-revista.vivadecora.com.br/uploads/2015/05/arranjo-de-flores-naturais-para-sala.jpg",
+          "mobileImage": "https://imagens-revista.vivadecora.com.br/uploads/2015/05/arranjo-de-flores-naturais-para-sala.jpg"
         }
       ]
     }
@@ -46,7 +49,7 @@
 
   "rich-text#shelf-title": {
     "props": {
-      "text": "## Summer",
+      "text": "## Decorações para sua Casa",
       "blockClass": "shelfTitle"
     }
   },
